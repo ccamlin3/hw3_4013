@@ -14,7 +14,7 @@
   <tbody>
 <?php
 
-$servername = "localhost";
+$servername = "localhost:3306";
 $username = "camcamli_homework3";
 $password = "gWLd!^-Ib?gJ";
 $dbname = "camcamli_homework3";
