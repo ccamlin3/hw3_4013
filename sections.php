@@ -39,6 +39,7 @@ echo '<tr>
                   <td> ' . $row["instructor_id"] .'</td>
                    <br>                
                 </tr>';
+  }
 } else {
   echo "0 results";
   }
