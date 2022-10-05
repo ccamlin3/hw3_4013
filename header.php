@@ -22,10 +22,10 @@
           <a class="nav-link" href="index2.php">Courses</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="instructor.php">Instructors</a>
+          <a class="nav-link" href="instructors.php">Instructors</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="section.php">Sections</a>
+          <a class="nav-link" href="sections.php">Sections</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="student.php">Students</a>
