@@ -35,10 +35,10 @@ if ($result->num_rows > 0) {
 
 
         echo '<tr>              
-                  <td scope="row">' . $row["instructor_id"]. '</td>
-                  <td>' . $row["instructor_name"] .'</td>
-                  <td>' . $row["courseID"] .'</td>
+                  <td scope="row">' . $row["courseID"]. '</td>
                   <td>' . $row["sectionID"] .'</td>
+                  <td>' . $row["sectionNum"] .'</td>
+                  
                    <br>                
                 </tr>';
     }
