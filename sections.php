@@ -41,7 +41,7 @@ echo '<tr>
                 </tr>';
 } else {
   echo "0 results";
-
+  }
 ?>
   </tbody>
     </table>
